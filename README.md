@@ -6,7 +6,7 @@ The aim of this project is to classify the images of the cricketers .
 * no of players: 15
 
 ## TRAINING
-The images were rando mly rotaded , flipped and there colour saturation and brightness were changed randomly to augment the data.
+The images were randomly rotaded , flipped and there colour saturation and brightness were changed randomly to augment the data.
 
 * training data size: 300
 * validation data size: 276
